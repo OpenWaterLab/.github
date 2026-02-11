@@ -1,0 +1,42 @@
+name: Bug report
+description: Report a bug or unexpected behaviour
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    attributes:
+      label: Description
+      description: Describe the problem clearly and concisely.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Steps to reproduce
+      description: Provide steps or a minimal example to reproduce the issue.
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Expected behaviour
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Package / repository
+      placeholder: "e.g. owl-data"
+    validations:
+      required: false
+
+  - type: input
+    attributes:
+      label: Python version
+      placeholder: "e.g. 3.11"
+    validations:
+      required: false
