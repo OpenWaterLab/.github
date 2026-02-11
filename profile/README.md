@@ -14,7 +14,7 @@ A Python package for analysis, validation, cleaning, gap-filling and visualizati
 ### **[owl-twin](https://github.com/OpenWaterLab/owl-twin)**
 A Python package providing reusable building blocks and automated pipelines for creating and maintaining digital twins of water systems.
 
-### **owl-sim**
+### **[owl-sim](https://github.com/OpenWaterLab/owl-sim)**
 A Python package for modelling and simulation of water systems.
 
 Additional tools and domain-specific models will be added as the ecosystem grows.
