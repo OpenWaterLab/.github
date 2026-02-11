@@ -11,9 +11,11 @@ OpenWaterLab (OWL) is part of the broader activities of **[BIOMATH](https://gith
 ### **owl-data**
 A Python package for analysis, validation, cleaning, gap-filling and visualization of data acquired in the context of water and wastewater systems.
 
-### **owl-dtwin**
+### **owl-dt**
 A Python package providing reusable building blocks and automated pipelines for creating and maintaining digital twins of water systems.
 
+### **owl-sim**
+A Python package for modelling and simulation of water and wastewater systems.
 
 Additional tools and domain-specific models will be added as the ecosystem grows.
 
