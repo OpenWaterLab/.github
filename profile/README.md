@@ -6,21 +6,17 @@ Our mission is to provide **high-quality, transparent, and reusable tools** for 
 OpenWaterLab (OWL) is part of the broader activities of **[BIOMATH](https://github.com/UGentBiomath)** research group at Ghent University in Belgium.
 
 -----
-## Available tools in OpenWaterLab ecosystem
+## Available modules in OpenWaterLab ecosystem
 
-### **[owl-data](https://github.com/OpenWaterLab/owl-data)**
-A Python package for analysis, validation, cleaning, gap-filling and visualization of data acquired in water systems.
+| Module | Description | Status |
+|--------|-------------|--------|
+|**[owl-data](https://github.com/OpenWaterLab/owl-data)**| Data analysis tools for water system modelling and analysis  | Active development |
+| **[owl-twin](https://github.com/OpenWaterLab/owl-twin)** | Digital twin pipelines for water system modelling and analysis | Active development |
+| **[owl-wrrf](https://github.com/OpenWaterLab/owl-wrrf)** | Modelling and simulations tools for water resource recovery facilities | Active development |
+| **[owl-ont](https://github.com/OpenWaterLab/owl-ont)** | A dynamic knowledge graph for urban water systems | Early development |
 
-### **[owl-twin](https://github.com/OpenWaterLab/owl-twin)**
-A Python package providing reusable building blocks and automated pipelines for creating and maintaining digital twins of water systems.
 
-### **[owl-wrrf](https://github.com/OpenWaterLab/owl-wrrf)**
-A Python package for modelling and simulation of water resource recovery facilities.
-
-### **[owl-ont](https://github.com/OpenWaterLab/owl-ont)**
-A dynamic knowledge graph for components of urban water systems.
-
-Additional tools and domain-specific models will be added as the ecosystem grows.
+Additional modules and domain-specific models will be added as the ecosystem grows.
 
 -----
 
