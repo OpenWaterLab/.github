@@ -17,6 +17,9 @@ A Python package providing reusable building blocks and automated pipelines for 
 ### **[owl-sim](https://github.com/OpenWaterLab/owl-sim)**
 A Python package for modelling and simulation of water systems.
 
+### **[owl-ont](https://github.com/OpenWaterLab/owl-ont)**
+A dynamic knowledge graph for components of urban water systems.
+
 Additional tools and domain-specific models will be added as the ecosystem grows.
 
 -----
