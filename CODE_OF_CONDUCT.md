@@ -1,6 +1,6 @@
 # Code of Conduct
 
-OpenWaterLab (OWL) is committed to providing a welcoming, inclusive, and
+Open Water Lab (OWL) is committed to providing a welcoming, inclusive, and
 collaborative environment for everyone involved in the project.
 
 We expect all participants to:
@@ -16,4 +16,4 @@ hostile or disrespectful conduct.
 Project maintainers reserve the right to take appropriate action in response
 to violations of this Code of Conduct.
 
-By participating in OpenWaterLab, you agree to uphold these standards.
+By participating in Open Water Lab, you agree to uphold these standards.

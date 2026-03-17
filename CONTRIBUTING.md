@@ -1,8 +1,8 @@
 # Contributing to OpenWaterLab (OWL)
 
-Thank you for your interest in contributing to **OpenWaterLab (OWL)**.
+Thank you for your interest in contributing to **Open Water Lab (OWL)**.
 
-OpenWaterLab is aa free and open-source ecosystem of tools for water system modelling, simulation, analysis, and digital twin development. Contributions of all kinds are welcome and appreciated.
+Open Water Lab (OWL) is founded, developed and maintained by the **[BIOMATH](https://biomath.ugent.be/)** research group at Ghent University and the wider open-source water research community. It is a free and open-source ecosystem of tools for water system modelling, simulation, analysis, and digital twin development. Contributions of all kinds are welcome and appreciated.
 
 ---
 
@@ -39,7 +39,7 @@ You can contribute to OWL in many ways, including:
 
 ## Licensing
 
-By contributing to OpenWaterLab, you agree that your contributions will be
+By contributing to Open Water Lab, you agree that your contributions will be
 released under the license of the target repository
 (**GNU General Public License v3.0** unless stated otherwise).
 

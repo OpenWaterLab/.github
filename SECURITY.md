@@ -1,6 +1,6 @@
 # Security Policy
 
-The OpenWaterLab (OWL) ecosystem takes security and responsible disclosure
+The Open Water Lab (OWL) ecosystem takes security and responsible disclosure
 seriously.
 
 If you discover a potential security vulnerability in any OWL repository,
